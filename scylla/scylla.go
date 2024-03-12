@@ -1,7 +1,7 @@
 package scylla
 
 import (
-	"example/mymodule/config"
+	"github.com/padmashree138/ScyllaDB-with-gocqlx/program_2/config"
 
 	"github.com/gocql/gocql"
 	"github.com/scylladb/gocqlx/v2"

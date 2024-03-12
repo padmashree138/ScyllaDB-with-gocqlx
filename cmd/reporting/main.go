@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/amin-mir/reporting/handler"
+	"github.com/padmashree138/ScyllaDB-with-gocqlx/program_2/handler"
 )
 
 func main() {

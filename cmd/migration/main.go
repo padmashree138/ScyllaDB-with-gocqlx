@@ -5,8 +5,8 @@ import (
 
 	"github.com/scylladb/gocqlx/v2/migrate"
 
-	"github.com/amin-mir/reporting/config"
-	"github.com/amin-mir/reporting/scylla"
+	"github.com/padmashree138/ScyllaDB-with-gocqlx/program_2/config"
+	"github.com/padmashree138/ScyllaDB-with-gocqlx/program_2/scylla"
 )
 
 func main() {
